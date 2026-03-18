@@ -30,3 +30,4 @@ print("--------------------------------")
 #multiply all the numbers in list
 #check weather a number falls within a given range
 #to print the even number form a given list
+#wap to add,sub,mul,divof all the numbers in list
